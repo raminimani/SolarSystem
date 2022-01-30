@@ -12,7 +12,7 @@ public class Main {
         SUN Solana=new SUN();
         Solana.heat="45345345kj";
         Solana.radius="43543543km";
-        Solana.temp="343433c";
+        Solana.temp=54634545;
         //working on planet2 feature
         planet2 perry=new planet2();
         perry.color="yellow";
