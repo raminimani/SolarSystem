@@ -26,6 +26,11 @@ public class Main {
         montero.lightintensity="5345345luminos";
         
 
+   //     adding planet1 features
+
+        PLANET1 narwhal=new PLANET1();
+        narwhal.color="green";
+        narwhal.size="4234324454km";
 
     }
 
