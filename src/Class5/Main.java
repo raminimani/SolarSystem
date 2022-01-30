@@ -14,6 +14,12 @@ public class Main {
         Solana.radius="43543543km";
         Solana.temp="343433c";
 
+   //     adding planet1 features
+
+        PLANET1 narwhal=new PLANET1();
+        narwhal.color="green";
+        narwhal.size="4234324454km";
+
     }
 
 
