@@ -13,6 +13,11 @@ public class Main {
         Solana.heat="45345345kj";
         Solana.radius="43543543km";
         Solana.temp="343433c";
+        //working on planet2 feature
+        planet2 perry=new planet2();
+        perry.color="yellow";
+        perry.size="45435435km";
+        
 
    //     adding planet1 features
 
