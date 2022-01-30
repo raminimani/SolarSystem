@@ -17,7 +17,15 @@ public class Main {
         planet2 perry=new planet2();
         perry.color="yellow";
         perry.size="45435435km";
+
+        // adding moon 1 features
+
+        moon1 montero=new moon1();
+        montero.color="blue";
+        montero.radius="4543534km";
+        montero.lightintensity="5345345luminos";
         
+
 
     }
 
