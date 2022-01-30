@@ -12,8 +12,8 @@ public class Main {
         SUN Solana=new SUN();
         Solana.heat="45345345kj";
         Solana.radius="43543543km";
-        Solana.temp=343433c;
-        
+        Solana.temp="343433c";
+
     }
 
 
